@@ -16,7 +16,7 @@ Hustle Launcher is an Android launcher designed to help you take control of your
 
 ## Download
 
-Download the latest available APK from the [GitHub Releases](../../releases) section.
+Download the latest available APK from the [Download]([../../releases](https://github.com/bhanuprakash006-pgr/Hustle-Launcher-Download/blob/main/HustleLauncher.apk)) section.
 
 ## Installation
 
